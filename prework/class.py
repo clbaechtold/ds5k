@@ -27,3 +27,8 @@ class Mansion(Building):
     avg_sqft = 125000
     avg_bedrooms = 8
     avg_bathroom = 10
+
+class TinyHome(Building):
+    avg_sqft = 100
+    avg_bedrooms = 1
+    avg_bathroom = 1
